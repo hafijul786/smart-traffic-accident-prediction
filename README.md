@@ -1,3 +1,5 @@
+https://smart-traffic-accident-prediction-dfrupcxf35jrcc7srak8an.streamlit.app/
+
 # 🚦 Smart Traffic Accident Severity Prediction
 
 An AI-powered machine learning system that predicts the severity of road accidents based on driver, vehicle, road, weather, traffic, and accident-related conditions.
